@@ -26,7 +26,7 @@ A conversational name for the Entity.
 
 Self-populated from the main tab.
 
-![](<../.gitbook/assets/image (29).png>)
+![](</assets/image (29).png>)
 
 ## Attributes (Required)
 
@@ -39,13 +39,13 @@ Complete the following (required) information for each attribute:
 * Add a **Definition** for the attribute. These should be informative enough for someone to interpret variables in the relevant datasets.
 * Select **Allow Null** to indicate whether null values are allowed for the attribute. If the checkbox is selected, the attribute can be left empty; if the checkbox is unselected, a value for the attribute is required.&#x20;
 
-![](<../.gitbook/assets/image (61).png>)
+![](</assets/image (61).png>)
 
 ### **Attribute Information**
 
 Select the **More** button next to each attribute to open the attributes editing window. If applicable, associate domains with attributes using the **Domain** drop down. The other fields are optional, but are recommended if they are informative for data users. Refer to the [mdJSON Data Dictionary](https://mdbook.adiwg.org/appendix/mdjson\_data\_dictionary.html) for more information on these fields.
 
-![](<../.gitbook/assets/image (75).png>)
+![](</assets/image (75).png>)
 
 ## Generate Entity from CSV
 
@@ -59,14 +59,14 @@ Prepare the Entity for import:
 * Verify the **Data Type** for each attribute. mdEditor will attempt to detect the data types; change the selection with the drop down as needed. Refer to the [mADIwg mdCodes Viewer](https://adiwg.github.io/mdTools/#codes-page) for more information on each data type option.
 * Select the **Domain** box to indicate an attribute has a defined domain. This will auto-generate domains and under the [Domains Tab](broken-reference).&#x20;
 
-{% hint style="info" %}
+::: {.callout-note}
 In general, attributes with coded terms will have a defined domain (e.g. the domain for gender might be "F","M"). Attributes with unlimited possible values will not have a defined domain (e.g. Year).
-{% endhint %}
+:::
 
 * Verify the **Allow Null** selection for each attribute. mdEditor will attempt to detect whether null values are allowed for an attribute. If the checkbox is selected, the attribute can be left empty; if the checkbox is unselected, a value for the attribute is required.&#x20;
 * Select the **Max/Min** checkbox if the adjacent values represent valid maximum and minimum constraints for the attribute. mdEditor will auto-detect these values for relevant attributes, though the checkbox will be unselected by default.&#x20;
 
 When you have finished, click the **Do Import** button to commit the new Entity, Attributes, and any Domains to the Dictionary Record.
 
-![](<../.gitbook/assets/image (80).png>)
+![](</assets/image (80).png>)
 

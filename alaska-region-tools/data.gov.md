@@ -1,5 +1,6 @@
 ---
 description: information on the federal metadata catalog for federal datasets
+order: 6
 ---
 
 # Data.gov
@@ -16,9 +17,9 @@ The information below is based on the best available information about data.gov 
 * Data (or static maps) in the form of a .pdf file is acceptable to catalog if there is no other file format of of the data.
 * Data.gov is intended for data only. As such, NO publications, report documents, web pages, or presentation recordings are to be cataloged.
 
-{% hint style="danger" %}
+::: {.callout-important}
 Avoid submitting a dataset more than once. If someone else from any organization has cataloged the identical data on data.gov, do not enter it again.
-{% endhint %}
+:::
 
 ## Requirements to send something to data.gov
 

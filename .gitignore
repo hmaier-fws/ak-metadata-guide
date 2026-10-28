@@ -1,10 +1,16 @@
-# Quarto files (https://quarto.org/)
-
-/docs/
-/.quarto/
-log-quarto.txt
+# Notepad++ files
 
 *.bak
 *.npp
 
+
+# Quarto files (https://quarto.org/)
+
+/docs/
+/.quarto/
+/_site/
+log-quarto.txt
+
 **/*.quarto_ipynb
+
+

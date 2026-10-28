@@ -31,7 +31,7 @@ Add at least one date is required. The recommended date type are "creation" (whe
 * Publisher by default should be 'U.S. Fish and Wildlife Service, Alaska Region'  +/- program or unit.
 * The point of contact may be the project manager, principal investigator, data steward, or other project staff personnel.
 
-![Example metadata contact entry](<../.gitbook/assets/image (13).png>)
+![Example metadata contact entry](</assets/image (13).png>)
 
 ## Metadata Identifier (Required, Auto-generated)
 
@@ -42,13 +42,13 @@ The **Metadata Identifier** is automatically populated by mdEditor. The metadata
 * If the record was created in mdEditor, it will generate a universally unique identifier (UUID).
 * If the record was imported from ScienceBase, the Metadata Identifier will be auto-populated with the ScienceBase ID (SBID).
 
-{% hint style="danger" %}
+::: {.callout-important}
 Once a Metadata Identifier is created in the metadata, do not change it. mdEditor uses the Metadata Identifier to connect records and changing the Metadata Identifier can break those connections. If there are additional identifiers you want to include in your metadata record, include them in [Main/Citation/Identifier](broken-reference).
-{% endhint %}
+:::
 
-![Example UUID metadata identifier entry](<../.gitbook/assets/image (30).png>)
+![Example UUID metadata identifier entry](</assets/image (30).png>)
 
-![Example identifier entry](<../.gitbook/assets/image (37).png>)
+![Example identifier entry](</assets/image (37).png>)
 
 ## Parent Metadata
 

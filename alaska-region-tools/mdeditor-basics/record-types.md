@@ -20,9 +20,9 @@ Not every output of a project is necessarily a product, however. For example, me
 
 Contacts are the individuals and organizations involved with projects and products (e.g., investigators, collaborators, funders). Contacts are entered once in mdEditor and can be used in multiple projects and products.
 
-{% hint style="info" %}
+::: {.callout-note}
 Consult the [Contacts](../../contact-entry-guidance/) section for information on adding contacts.
-{% endhint %}
+:::
 
 ### Relationships
 
@@ -33,14 +33,12 @@ Consult the [Contacts](../../contact-entry-guidance/) section for information on
 * Organizations may be added to projects and products with defined roles.
 * Individual contacts are also associated with an organization.
 
-{% hint style="info" %}
+::: {.callout-note}
 Contact types are specified in the contact record (examples: federal, state, NGO). Specific roles for each contact are defined within the respective project and product records (examples: principal investigator, collaborator).
-{% endhint %}
+:::
 
 **Products are often the results of projects**. mdEditor defines the relationships between projects and products through the Associated function.
 
-{% hint style="info" %}
+::: {.callout-note}
 Consult either the [Associating Records: Product](broken-reference) or [Associating Records: Project](broken-reference) section for more information).
-{% endhint %}
-
-<img src="../../.gitbook/assets/image (74).png" alt="" data-size="line">
+:::

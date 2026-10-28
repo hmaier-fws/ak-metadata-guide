@@ -8,14 +8,14 @@ The Import function loads an mdEditor or mdJSON file into the current mdEditor s
 4. Check that the Replace/Merge toggle is set to **Replace**.&#x20;
 5. Click on the right hand button “**Click to Import Data.**”
 
-![](../../.gitbook/assets/ImportArrow.PNG)
+![](..//assets/ImportArrow.PNG)
 
 ## Replace vs. Merge <a href="#general-import-settings" id="general-import-settings"></a>
 
-![](<../../.gitbook/assets/ImportArrow (1).PNG>)
+![](<..//assets/ImportArrow (1).PNG>)
 
 The **Replace/Merge** toggle allows you to either replace or merge the imported records with the records currently loaded in mdEditor.&#x20;
 
-{% hint style="warning" %}
+::: {.callout-warning}
 Always set the Replace/Merge toggle to **Replace**.&#x20;
-{% endhint %}
+:::

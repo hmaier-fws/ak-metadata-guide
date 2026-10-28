@@ -47,5 +47,3 @@ Much of your work is connected to the data that you collect and analyze.  Docume
 You're already on your way to helping improve the Service's data management by using this guide.  It is designed to be the primary data management resource for you and to include something about everything from the data management lifecycle, tools and even policies.  If you want even more, join the national and regional communities to stay in the ‘know’. &#x20;
 
 See the [FWS Data Management SharePoint Page](https://doimspp.sharepoint.com/sites/fws-data/SitePages/DM101.aspx) for more.
-
-<img src=".gitbook/assets/image (46).png" alt="" data-size="line">

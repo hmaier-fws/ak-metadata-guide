@@ -1,5 +1,5 @@
 ---
-description: Updated January 2022
+order: 2
 ---
 
 # Metadata Standard Checklist

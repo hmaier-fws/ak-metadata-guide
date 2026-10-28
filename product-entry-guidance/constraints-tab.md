@@ -8,7 +8,7 @@ In the majority of cases, Service data is open and free for public use.  While t
 
 Identify concerns over how people should or should not use the product.&#x20;
 
-![](../.gitbook/assets/image.png)
+![](/assets/image.png)
 
 The text in the above use constraint generally states that the data is AS IS, without warranty, including a liability disclaimer, and no authority act clause (see language below).
 
@@ -40,7 +40,7 @@ Data and content created by government employees within the scope of their emplo
 
 The default U.S. Public Domain status of U.S. Government Works is limited to the jurisdiction of the United States. A public domain status is applicable internationally for works produced by government employees, by using a worldwide public domain dedication such as [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). This assures users of U.S. Government Works that they have full permission to freely use the work internationally. When Creative Commons Zero has been applied, the following URL should be used for in the license.
 
-![Example of legal constraint entry for U.S. Government Works](<../.gitbook/assets/image (47).png>)
+![Example of legal constraint entry for U.S. Government Works](</assets/image (47).png>)
 
 For more information on Open Data Commons or Creative Commons license, CCO 1.0, which denotes that an item is public domain, or CC BY 4.0, which allows the public to use and redistribute data, but requires that credit be given to the creator, see [Open Data Commons](https://opendatacommons.org/index.html) and [Creative Common](https://creativecommons.org/) to determine if one of these licenses is more applicable.
 
@@ -56,8 +56,8 @@ Unlimited international creative commons license with attribution and change not
 
 Again for open access data, there is not a security constraint and the security classification chosen should be 'unclassified'. &#x20;
 
-![](<../.gitbook/assets/image (43).png>)
+![](</assets/image (43).png>)
 
-{% hint style="danger" %}
+::: {.callout-important}
 **If you data is restricted or limited**, consult with your data manager who can work with you and records or FOIA staff to populate the constraints metadata.
-{% endhint %}
+:::

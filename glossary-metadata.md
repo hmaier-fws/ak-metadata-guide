@@ -1,3 +1,7 @@
+---
+title: "Glossary"
+---
+
 # Glossary
 
 _When consistent with usage in this document, definitions have been pulled from various other resources including Wikipedia,_ [_Open Data Handbook glossary_](http://opendatahandbook.org/glossary/en/)_,_ [_Duke Law EDRM glossary_](https://www.edrm.net/collections/edrmglossary/)_, and the_ [_Open Government Data Act_](https://www.congress.gov/bill/115th-congress/house-bill/4174/text#toc-H8E449FBAEFA34E45A6F1F20EFB13ED95) _codification of act definitions_ [_44 usc 3502_](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502\&num=0\&edition=prelim)_. It is possible to find alternative and contradictory definitions in other data management resources resources. The definitions provided here are those implied by the term’s usage in this document._

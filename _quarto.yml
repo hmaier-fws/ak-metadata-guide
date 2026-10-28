@@ -7,8 +7,8 @@ project:
     - "!docs/"
 
 website:
-  title: "Alaska Region Data Management Guide"
-  description: "General data management guidance and best practices for Alaska Region staff"
+  title: "Alaska Region Metadata Guide"
+  description: "General metadata guidance and best practices for Alaska Region staff"
 #  announcement:
 #    content:  \"Edit this page\" link now directs to dev branch!
 #    icon: newspaper
@@ -18,7 +18,7 @@ website:
   favicon: ak-forum-icon_200-tr.png
   reader-mode: true
   page-navigation: true
-  repo-url: https://github.com/USFWS/ak-dm-guide
+  repo-url: https://github.com/USFWS/ak-metadata-guide
   repo-branch: dev
 #  issue-url: Https://www.fws.gov
 
@@ -37,7 +37,7 @@ website:
     right:
       - text: "Page updated: {{< meta date >}}"
     left:
-      - text: "Suggested citation: Alaska Data Stewardship Team. Alaska Region Data Management Guide. U.S. Fish and Wildlife Service, Alaska Region. https://doi.org/10.7944/p9jf0rt6"
+      - text: "Suggested citation: Alaska Data Stewardship Team. Alaska Region Metadata Guide. U.S. Fish and Wildlife Service, Alaska Region. https://doi.org/10.7944/P9S972WM"
 
  
   
@@ -52,15 +52,17 @@ website:
 #    contents: auto
     contents:    
       - index.md
-      - auto: background
-      - auto: fundamental-activities
-      - auto: alaska-data-management-101
-      - auto: planning
-      - auto: acquire
-      - auto: maintain
-      - auto: share
-      - auto: storage-options
-      - auto: appendix
+      - other-training-resources.md
+      - goals-of-data-management.md
+      - project-and-data-management-integration.md
+      
+      - auto: alaska-region-tools
+      - auto: creating-metadata
+      - auto: contact-entry-guidance
+      - auto: project-entry-guidance
+      - auto: product-entry-guidance
+      - auto: dictionary-entry-guidance
+      - glossary-metadata.md
       - text: "---"
       - section: "Site Maintenance"
       - CONTRIBUTING.md
@@ -97,7 +99,7 @@ website:
         href: https://github.com/hmaier-fws/ak-dm-guide/commits/test-pages/
         text: Recent Changes
         
-      - href: https://ak-region-dst.gitbook.io/alaska-region-interim-data-management-user-guide
+      - href: https://ak-region-dst.gitbook.io/alaska-region-mdeditor-interim-user-guide
         text: Old Site
         icon: book
 

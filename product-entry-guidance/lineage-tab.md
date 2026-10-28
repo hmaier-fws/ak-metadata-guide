@@ -8,7 +8,7 @@
 * **Citation** (Optional): If you have a citation for a manual, enter it here. _This can be done instead of completing all other fields in this tab._
 * **Scope** (Optional): Select type from the picklist.
 
-![](../.gitbook/assets/lineage\_window.png)
+![](/assets/lineage\_window.png)
 
 ## Process Step <a href="#product-entry-guidance-process-step" id="product-entry-guidance-process-step"></a>
 
@@ -35,4 +35,4 @@ _The following fields are available but optional:_
   * **Duration**: Describe the time period in terms of **Years**, **Months**, **Days, Hours**, **Minutes**, and **Seconds**.
 * **Scope**: Select the type of resource from the drop-down menu.
 
-![](../.gitbook/assets/process\_step\_window.png)
+![](/assets/process\_step\_window.png)

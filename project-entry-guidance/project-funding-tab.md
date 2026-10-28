@@ -22,9 +22,9 @@ Enter the amount of funding.  Be sure U.S.D. is selected (Unites States of Ameri
 
 Add the relevant contact for the “source” of the project funding. Source should be an organization, not an individual. For regional FWS projects, the funding source should be U.S. Fish and Wildlife Service Alaska Region.  Collaborative projects where funding is distributed from another agency i.e., Bureau of Land Management or Bureau of Reclamation, may contain multiple distributions with varying funding sources.&#x20;
 
-{% hint style="warning" %}
+::: {.callout-warning}
 Funding source should always identify the agency or organization, rather than a sub-program or office. For example, all funding from other FWS programs need to list U.S. Fish and Wildlife Service as the source, not Fisheries, specific Refuges, Ecological Services, etc.. Clarifications on the exact program or office where the funding came from should be done through the Funding/Other Contacts field with the administrator role.
-{% endhint %}
+:::
 
 #### Recipient
 
@@ -40,7 +40,7 @@ You may add the Principal Investigator with the "principalInvestigator" role to 
 
 In some cases, funds are marked for specific activities and include reporting requirements that accompany the funding allocations.  For example, EPA allocates Great Lakes Restoration Initiative (GLRI) funds on behalf of Congress to FWS, among others.  FWS then distributes the funds across programs for use. Oil spill restoration funds are a similar case. This funding flow can be tracked and aggregated within Other Contacts listed in an allocation.  Add an organization as the contact and add "_funder_" as the role in Other Contacts.
 
-![Example funding allocation entry with sub-activity information in the comments](<../.gitbook/assets/image (56).png>)
+![Example funding allocation entry with sub-activity information in the comments](</assets/image (56).png>)
 
 
 
@@ -58,8 +58,8 @@ Project funds or in-kind support that were supplied by a partner may be included
 
 For each allocation, enter the fiscal year that funds were awarded (not the time span of the entire project). There should be a single fiscal year for each allocation. Adding a time period lets users know what Fiscal Year the project was funded.
 
-{% hint style="info" %}
+::: {.callout-note}
 Use the “Pick a Fiscal Year” dropdown to autofill the date fields.
-{% endhint %}
+:::
 
-![Example of multiple year project funding allocations](<../.gitbook/assets/image (11).png>)
+![Example of multiple year project funding allocations](</assets/image (11).png>)

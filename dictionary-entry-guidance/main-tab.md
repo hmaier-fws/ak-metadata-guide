@@ -24,11 +24,11 @@ The **Subject** drop-down menu allows you to describe the scope or content of th
 
 Adding a point of contact gives users information on who to contact should they have a question regarding the dictionary. To add contacts to a Dictionary Record, you must first create/upload the contacts into mdEditor. See the Contact Section for more information.
 
-{% hint style="info" %}
+::: {.callout-note}
 A Master contacts list is maintained in the top level 'contacts' folder of the RDR.  This is maintained by the Alaska program managers and contains staff contacts and common organizational contacts. Before starting and editing metadata records in mdEditor, import the mdJSON contacts file.
 
 If you need to add a contact to this master list, please contact your data manager.&#x20;
-{% endhint %}
+:::
 
 | Role   | Description     | Required? |
 | ------ | --------------- | --------- |
@@ -46,8 +46,8 @@ Select the checkbox if the dictionary is included with resource materials. Do no
 
 Adding a point of contact (responsible party) gives users information on who to contact should they have a question regarding your dictionary.
 
-{% hint style="info" %}
+::: {.callout-note}
 To add contacts to a metadata record, you must first upload the contacts into mdEditor. See the [Contact](../contact-entry-guidance/) Section for more information.
-{% endhint %}
+:::
 
-![](<../.gitbook/assets/image (20).png>)
+![](</assets/image (20).png>)

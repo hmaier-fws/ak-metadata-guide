@@ -8,9 +8,9 @@ The settings menu allows for the configuring of user-specific options. Settings 
 
 **Auto-Save**: The Auto-Save option will write all changes to local storage when you exit a data entry field. Changes must be manually saved if the Auto-Save feature is turned off.
 
-{% hint style="info" %}
+::: {.callout-note}
 Auto-Save allows you to save less frequently, but it makes it harder to undo changes that you make to your records. If you stay on the same record, you can cancel changes. But once you leave the record, the record is saved and you can’t cancel the change except by manually re-editing the record.
-{% endhint %}
+:::
 
 **Copy in Edit Mode:** All&#x20;
 
@@ -18,9 +18,9 @@ Auto-Save allows you to save less frequently, but it makes it harder to undo cha
 
 **Clear All Records**: All records can be cleared by clicking the "Clear Storage Cache."
 
-{% hint style="danger" %}
+::: {.callout-important}
 **Warning**: Clearing all records will delete all of the records currently loaded in mdEditor. Before doing so, use the Export function to make a backup of your records. Otherwise, the records will be permanently lost (unless you previously made a backup copy).
-{% endhint %}
+:::
 
 ## Defaults
 

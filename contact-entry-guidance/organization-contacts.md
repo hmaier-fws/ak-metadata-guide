@@ -21,10 +21,10 @@ _The following fields are available for **Organization Contacts:**_
   * To add a logo, drag-n-drop an image into the online resource entry within the logo editing window.  Alternatively, provide the url of the desired image. mdEditor limits the size of logos to 50kb.&#x20;
 * **Available Time:**  Add the organization's office hours.
 
-{% hint style="warning" %}
+::: {.callout-warning}
 If you upload a logo to your contact record, you must include a filename for the logo. Otherwise, an error will occur n the metadata records that include that contact.
-{% endhint %}
+:::
 
-![Example organization contact with excellent metadata!](<../.gitbook/assets/image (40).png>)
+![Example organization contact with excellent metadata!](</assets/image (40).png>)
 
 For more information, consult the [**Organization Contacts**](https://adiwg.gitbooks.io/mdeditor/content/contact/new/organization.html) **** section of the mdEditor manual.

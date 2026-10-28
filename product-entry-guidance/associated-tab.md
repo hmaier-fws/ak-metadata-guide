@@ -6,15 +6,15 @@ Associating product records with a project is the same process as the project as
 
 ## Create Associations <a href="#create-associations" id="create-associations"></a>
 
-{% hint style="warning" %}
+::: {.callout-warning}
 Associations can only be made after both project and product records have been created in mdEditor.
-{% endhint %}
+:::
 
 **Step 1**: Select "**parentProject**" from the **Association Type** drop-down menu. This field will describe the relationship from the associated record to the product record (the associated record is the parentProject of the product record you are editing).&#x20;
 
 **Step 2**: Click the "**Select a Record"** button to select an associated project.&#x20;
 
-![](<../.gitbook/assets/select\_a\_record\_button (1).png>)
+![](</assets/select\_a\_record\_button (1).png>)
 
 **Step 3**: Choose the project that you would like to associate from the **Select a Resource** list.
 

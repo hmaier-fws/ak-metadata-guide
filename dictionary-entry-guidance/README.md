@@ -8,9 +8,9 @@ Data dictionaries define the characteristics of attributes (also called variable
 
 Like Contacts, data dictionaries are created separately from Product records in mdEditor. The **Dictionaries** tab links the product metadata record to a data dictionary that has been previously created.   &#x20;
 
-{% hint style="info" %}
+::: {.callout-note}
 A data dictionary is required for a tabular dataset (a single table or a database) and for geospatial shapefile attributes.
-{% endhint %}
+:::
 
 ### Options for creating a data dictionary in mdEditor:
 
@@ -18,9 +18,9 @@ A data dictionary is required for a tabular dataset (a single table or a databas
 
 If you are updating an existing metadata record, you should import the mdEditor mdJSON file from the project's folder in the Regional Data Repository. Learn how to import files into mdEditor on the [Import ](../alaska-region-tools/mdeditor-basics/import.md)page.&#x20;
 
-{% hint style="info" %}
+::: {.callout-note}
 The **** [**mdJSONdictio R package**](https://hdvincelette.github.io/mdJSONdictio/) **** is available to help build and translate an exel data dictionary into a mdEditor Dictionary record. This tool utilizes a [tabular data dictionary template](https://hdvincelette.github.io/mdJSONdictio/articles/02\_Dictionary\_Template.html) which can serve as a human-readable reference while creating Dictionary records. The mdJSONdictio function`build.mdJSON()`will translate these tabular data dictionaries to mdJSON format which can be imported to mdEditor. The newly imported Dictionary record will be defined with data table attributes. To learn more, see [Introduction to mdJSONdictio](https://hdvincelette.github.io/mdJSONdictio/articles/01\_Intro\_mdJSONdictio.html) and the associated articles.
-{% endhint %}
+:::
 
 #### 2: Manually create a new data dictionary
 
@@ -34,6 +34,6 @@ The **** [**mdJSONdictio R package**](https://hdvincelette.github.io/mdJSONdicti
 4. Associate the dictionary with applicable product(s) in the Product Dictionaries Tab
 5. Save your work.
 
-![Click the plus sign to create a new record ](<../.gitbook/assets/CreateNewDictionary (1).png>)
+![Click the plus sign to create a new record ](</assets/CreateNewDictionary (1).png>)
 
 ##

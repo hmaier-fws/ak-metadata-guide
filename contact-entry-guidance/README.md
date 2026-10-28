@@ -15,7 +15,7 @@ For information on determining individual data management roles: see [Establish 
 * When exporting a metadata record set, i.e. when providing your metadata records for review by another,  select the desired records, contacts, and data dictionaries by checking the box in to the left of the record, and click **Export Selected**.
 * When exporting a completed metadata record that will be consumed by a catalog, select the desired record and click **Export mdJSON**.  This will export the item metadata, relevant contacts, and dictionaries into a machine-readable file.&#x20;
 
-![Export View includes 3 options on the right side:  Export all, Export Selected, and Export mdJSON](<../.gitbook/assets/image (42).png>)
+![Export View includes 3 options on the right side:  Export all, Export Selected, and Export mdJSON](</assets/image (42).png>)
 
 ## Best Practices for Contact Entry
 
@@ -33,14 +33,12 @@ Some programs may maintain a subset of the regional master contact file as a pro
 
 To load a master contact file into mdEditor, simply click Import tab, access the Regional Data Repository space, and drag and drop the desired file into the blue box and click import. Once contacts are imported into mdEditor, they can be used in any metadata record and left in your active contact library.
 
-![Import screen in mdEditor](<../.gitbook/assets/image (14).png>)
+![Import screen in mdEditor](</assets/image (14).png>)
 
-{% hint style="warning" %}
+::: {.callout-warning}
 If you load a Master Contacts file and see that there is no record for a person or position or organization that you need for your metadata, you may contact your program data manager to add that person to the Alaska Master Contacts file or create a new contact record and submit the record to your program data manager for review and inclusion in regional and program master contacts files.&#x20;
-{% endhint %}
+:::
 
 ## Importing Contacts from ScienceBase
 
 When you import a ScienceBase record, mdTranslator will automatically load all sbJSON contacts into Main/Citation/Responsible Parties.  This should be checked for errors and inconsistencies introduced during translation.  Delete any duplicate or extraneous contacts and correct any errors. Then add other contacts as needed, continue to edit the metadata to meet requirements, and follow best practices.
-
-<img src="../.gitbook/assets/image (49).png" alt="" data-size="line">

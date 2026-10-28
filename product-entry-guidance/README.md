@@ -12,7 +12,7 @@ After creating your product record initially and before you begin editing metada
 
 
 
-![The profile selection dropdown is located in the primary horizontal navigation bar.](<../.gitbook/assets/image (26).png>)
+![The profile selection dropdown is located in the primary horizontal navigation bar.](</assets/image (26).png>)
 
 ### **Update your contacts in mdEditor, as needed:** <a href="#make-sure-your-contacts-are-loaded-into-mdeditor" id="make-sure-your-contacts-are-loaded-into-mdeditor"></a>
 

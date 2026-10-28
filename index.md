@@ -2,11 +2,11 @@
 description: preface
 ---
 
-# Alaska Region Interim Metadata Guide
+# Alaska Region Metadata Guide
 
-Alaska Region Data Stewardship Team&#x20;
+Alaska Region Data Stewardship Team
 
-V.2&#x20;
+V.2
 
 _Note: This is a working draft that will continue to be edited. **Last updated: 15 March 2022**. Please refresh this manual every time you open it to ensure you are viewing the most recent version._
 
@@ -36,12 +36,10 @@ The metadata requirements described here apply to science projects and products 
 
 Directly accessing this manual from the internet is the recommended way to use this manual. By doing so, you will guarantee that you are using the current version since it is a live document and any updates can be made instantly. The online version will also have the best functionality and graphical display.
 
-{% hint style="info" %}
+::: {.callout-note}
 Some of the stylized text boxes (like this one) will not translate to the PDF exactly. The text will still be outlined with a background color, but the icon to the left of the text will not display in the PDF.
-{% endhint %}
+:::
 
 ### Disclaimer
 
 mdEditor is also undergoing constant development. Due to this, there may be minor discrepancies between screenshots in the manual and the current production version of mdEditor.
-
-<img src=".gitbook/assets/image (6).png" alt="" data-size="line">

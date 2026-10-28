@@ -21,11 +21,11 @@ Because mdJSON metadata is based on the International Organization for Standardi
 
 FDGC provides guidance on [geospatial metadata standards](https://www.fgdc.gov/metadata/geospatial-metadata-standards).
 
-{% hint style="info" %}
+::: {.callout-note}
 'Biota' and 'environment' are probably the best fit for most FWS projects.
-{% endhint %}
+:::
 
-![Example GCMD Science keywords and ISO topic keywords entry](<../.gitbook/assets/image (57).png>)
+![Example GCMD Science keywords and ISO topic keywords entry](</assets/image (57).png>)
 
 ## Custom Thesaurus
 
