@@ -6,13 +6,13 @@ description: preface
 
 Alaska Region Data Stewardship Team&#x20;
 
-V.2&#x20;
+V.0.0.2
 
 _Note: This is a working draft that will continue to be edited. **Last updated: 15 March 2022**. Please refresh this manual every time you open it to ensure you are viewing the most recent version._
 
 ### Introduction
 
-This manual describes the **INTERIM** requirements and best practices for the creation of quality, discovery level metadata records for projects and products from the Alaska Region (AK-Region) of the US Fish and Wildlife Service (USFWS). These metadata requirements conform to the metadata standards agreed upon by the Alaska Region Data Stewardship Team (DST). This metadata ensures that AK-Region projects and products are **documented, secure, discoverable, accessible, and timely,.**
+This manual describes the requirements and best practices for the creation of quality, discovery level metadata records for projects and products from the Alaska Region (AK-Region) of the US Fish and Wildlife Service (USFWS). These metadata requirements conform to the metadata standards agreed upon by the Alaska Region Data Stewardship Team (DST). This metadata ensures that AK-Region projects and products are **documented, secure, discoverable, accessible, and timely,.**
 
 The Alaska Region of the U.S. Fish and Wildlife Service is committed to improving the management of its data resources. A comprehensive, long-term plan to develop and implement a Regional Data Management System (RDMS) began in the spring of 2020, with the expectation that it will be fully operational and in use in 3-5 years.  In the interim, there is a strong desire in the Region to manage existing and new data resources with the systems available to staff now. This manual will be continually revised.
 

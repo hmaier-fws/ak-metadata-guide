@@ -94,7 +94,7 @@ website:
         href: https://doimspp.sharepoint.com/sites/fws-FF07S00000-data/SitePages/Contacts.aspx
         
       - icon: file-diff
-        href: https://github.com/hmaier-fws/ak-dm-guide/commits/test-pages/
+        href: https://github.com/hmaier-fws/ak-metadata-guide/commits
         text: Recent Changes
         
       - href: https://ak-region-dst.gitbook.io/alaska-region-interim-data-management-user-guide
